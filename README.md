@@ -7,8 +7,7 @@ I'm a Computer Science undergraduate at **PW Institute of Innovation**, passiona
 * B.Tech in Computer Science
 * Currently exploring **Java Backend Development & Full-Stack Development**
 * 300+ coding problems solved across **LeetCode & GeeksforGeeks**
-* Currently learning **Hibernate, Servlets, JDBC, and backend development**
-* Interested in **UI/UX and Figma**
+* Interested in **UI/UX Design**
 * Interested in **AI/ML, backend systems, and full-stack applications**
 * Open to collaborating on interesting open-source and development projects
 
@@ -111,11 +110,10 @@ Java
  └── Backend Development
 
 DSA
- ├── Arrays
- ├── Sliding Window
+ ├── Stack / Queue
  ├── Heap / Priority Queue
  ├── Dynamic Programming
- └── Problem Solving
+ └── Graph
 
 Web Development
  ├── HTML
@@ -131,22 +129,9 @@ Web Development
 
 I regularly practice Data Structures & Algorithms and focus on understanding the underlying concepts rather than just memorizing solutions.
 
-**170+ problems solved** across LeetCode and GeeksforGeeks.
+**300+ problems solved** across LeetCode and GeeksforGeeks.
 
 > One problem every day. One concept better than yesterday.
-
----
-
-## 🎯 2026 Goals
-
-* [ ] Become strong in Java Backend Development
-* [ ] Master DSA fundamentals
-* [ ] Learn React
-* [ ] Build production-ready full-stack applications
-* [ ] Contribute more to Open Source
-* [ ] Participate in GSoC and other open-source programs
-* [ ] Build and deploy impactful projects
-* [ ] Improve system design and software engineering fundamentals
 
 ---
 
