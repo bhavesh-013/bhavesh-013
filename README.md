@@ -1,4 +1,4 @@
-# Hi, I'm Bhavesh Kumawat 👋
+# Hi, I'm Bhavesh Kumawat 🧑‍💻
 
 ### Computer Science Undergraduate | Full-Stack Developer | Problem Solver
 
